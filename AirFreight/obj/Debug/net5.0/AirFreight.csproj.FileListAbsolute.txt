@@ -1,0 +1,4 @@
+C:\Users\Believe\Documents\Namratha\AirFreight\AirFreight\obj\Debug\net5.0\AirFreight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Believe\Documents\Namratha\AirFreight\AirFreight\obj\Debug\net5.0\AirFreight.AssemblyInfoInputs.cache
+C:\Users\Believe\Documents\Namratha\AirFreight\AirFreight\obj\Debug\net5.0\AirFreight.AssemblyInfo.cs
+C:\Users\Believe\Documents\Namratha\AirFreight\AirFreight\obj\Debug\net5.0\AirFreight.csproj.CoreCompileInputs.cache
